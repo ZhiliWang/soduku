@@ -1,0 +1,3 @@
+# Solving Soduku
+
+Using backtracking
